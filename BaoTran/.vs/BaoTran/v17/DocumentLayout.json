@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_00.WORK\\BaoTran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|d:\\_00.work\\baotran\\baotran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|solutionrelative:baotran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|d:\\_00.work\\baotran\\baotran\\controllers\\playschedualcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|solutionrelative:baotran\\controllers\\playschedualcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|d:\\_00.work\\baotran\\baotran\\validators\\mediafilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|solutionrelative:baotran\\validators\\mediafilevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|d:\\_00.work\\baotran\\baotran\\validators\\playschedualvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|solutionrelative:baotran\\validators\\playschedualvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|d:\\_00.work\\baotran\\baotran\\services\\playschedualservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B84C2D3-263F-4005-95A6-DDB0691B9E38}|BaoTran\\BaoTran.csproj|solutionrelative:baotran\\services\\playschedualservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\BaoTran\\BaoTran\\Program.cs",
+              "RelativeDocumentMoniker": "BaoTran\\Program.cs",
+              "ToolTip": "D:\\_00.WORK\\BaoTran\\BaoTran\\Program.cs",
+              "RelativeToolTip": "BaoTran\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:28:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaFileValidator.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\BaoTran\\BaoTran\\Validators\\MediaFileValidator.cs",
+              "RelativeDocumentMoniker": "BaoTran\\Validators\\MediaFileValidator.cs",
+              "ToolTip": "D:\\_00.WORK\\BaoTran\\BaoTran\\Validators\\MediaFileValidator.cs",
+              "RelativeToolTip": "BaoTran\\Validators\\MediaFileValidator.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:28:53.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaySchedualController.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\BaoTran\\BaoTran\\Controllers\\PlaySchedualController.cs",
+              "RelativeDocumentMoniker": "BaoTran\\Controllers\\PlaySchedualController.cs",
+              "ToolTip": "D:\\_00.WORK\\BaoTran\\BaoTran\\Controllers\\PlaySchedualController.cs",
+              "RelativeToolTip": "BaoTran\\Controllers\\PlaySchedualController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:18:11.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaySchedualService.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\BaoTran\\BaoTran\\Services\\PlaySchedualService.cs",
+              "RelativeDocumentMoniker": "BaoTran\\Services\\PlaySchedualService.cs",
+              "ToolTip": "D:\\_00.WORK\\BaoTran\\BaoTran\\Services\\PlaySchedualService.cs",
+              "RelativeToolTip": "BaoTran\\Services\\PlaySchedualService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:03:25.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaySchedualValidator.cs",
+              "DocumentMoniker": "D:\\_00.WORK\\BaoTran\\BaoTran\\Validators\\PlaySchedualValidator.cs",
+              "RelativeDocumentMoniker": "BaoTran\\Validators\\PlaySchedualValidator.cs",
+              "ToolTip": "D:\\_00.WORK\\BaoTran\\BaoTran\\Validators\\PlaySchedualValidator.cs",
+              "RelativeToolTip": "BaoTran\\Validators\\PlaySchedualValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:09:05.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

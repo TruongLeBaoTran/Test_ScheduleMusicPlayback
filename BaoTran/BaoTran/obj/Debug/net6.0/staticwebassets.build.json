@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "x4ASIBWU4TeP1oWnnXM/km0Lm8oNlmLRxAEQxprasvg=",
+  "Source": "BaoTran",
+  "BasePath": "_content/BaoTran",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BaoTran\\wwwroot",
+      "Source": "BaoTran",
+      "ContentRoot": "D:\\_00.WORK\\BaoTran\\BaoTran\\wwwroot\\",
+      "BasePath": "_content/BaoTran",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
